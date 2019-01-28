@@ -1,3 +1,4 @@
+This app can be viewed at: http://www.rrspark.com/ReactToDoList/ then click on the Home link.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
