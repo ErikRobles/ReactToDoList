@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ErikRobles/ReactToDoList.git",
+  "homepage": "https://github.com/ErikRobles/ReactToDoList",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
